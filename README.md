@@ -79,4 +79,5 @@ This project gave me hands-on experience with:
 
 Overall, this project shows how data can help in understanding and improving a tech product or business. There’s definitely more that can be done, but this was a solid step in building my data analysis skills.
 
+<img width="882" height="585" alt="image" src="https://github.com/user-attachments/assets/5a25eb35-9daa-447b-997b-9b6aa3cee976" />
 
